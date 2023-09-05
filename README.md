@@ -17,16 +17,16 @@ Welcome to the FOOD Ordering App, a Flutter-based mobile application that allows
 📷 **Screenshots**
 
 ### Splash Screen
-![Splash Screen](/screenshots/splashscreen.png =250x)
+<img src="/screenshots/splashscreen.png" width="300" alt="Splash Screen" />
 
 ### Log in
-![Log in](/screenshots/login.png =250x)
+<img src="/screenshots/login.png" width="300" alt="Log in" />
 
 ### Menu
-![Menu](/screenshots/menu.png =250x)
+<img src="/screenshots/menu.png" width="300" alt="Menu" />
 
 ### Profile
-![Profile](/screenshots/profile.png =250x)
+<img src="/screenshots/profile.png" width="300" alt="Profile" />
 
 
 ## Getting Started
